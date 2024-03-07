@@ -1,0 +1,21 @@
+{
+  "name": "prom_tcr",
+  "version": "0.0.3",
+  "description": "Simple promises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Customimine/prom_tcr.git"
+  },
+  "keywords": [
+    "promise",
+    "future",
+    "deliver",
+    "later"
+  ],
+  "author": "Tim Cameron Ryan",
+  "license": "MIT"
+}
